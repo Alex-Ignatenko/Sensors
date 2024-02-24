@@ -44,7 +44,9 @@ alert.py: posts in console the recieved message, creates a log entery and sends 
   log:
   ![log](https://github.com/Alex-Ignatenko/Sensors/assets/138715781/8abae691-112d-4080-9974-5b27c54c3336)
 
+   
   mail:
+  
   ![mail](https://github.com/Alex-Ignatenko/Sensors/assets/138715781/fb6b56f0-7546-4e74-a458-efc356eb754d)
 
   
