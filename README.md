@@ -34,10 +34,12 @@ add-ons: "sensors.py": a class lib used by the first service
   - Inter-Service Communication: the two services communicate using an instance of ZMQ message bus
 
 run example:
- main.py: posts in console the generated messages:
+
+main.py: posts in console the generated messages:
  ![main consloe](https://github.com/Alex-Ignatenko/Sensors/assets/138715781/af4b94dd-cac3-49b2-8fba-2e221934b86e)
 
 alert.py: posts in console the recieved message, creates a log entery and sends an email:
+
   cosole:
   ![alert console](https://github.com/Alex-Ignatenko/Sensors/assets/138715781/218b9092-37d9-4147-9a73-91b4b9d81cc8)
 
